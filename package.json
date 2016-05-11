@@ -1,0 +1,15 @@
+{
+  "name": "e2e-mean-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "j-low",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "pug": "^0.1.0"
+  }
+}
